@@ -1,2 +1,3 @@
 # pytorch_handson
-repository for pytorch handson practice
+Repository for pytorch handson practice.
+ All the exceise are taken from https://github.com/Exorust/TorchLeet.git
